@@ -2,9 +2,9 @@
 
 [toc]
 
-==**The two output logs of the Inception V3 implementation are uploaded to the cloud storage**==
+==**The two output logs of the Inception V3 implementation, model and dataset are uploaded to the cloud storage**==
 
-You can get fromhttps://www.aliyundrive.com/s/jMvxnVoijbr or https://1drv.ms/u/s!AkWL65N6AHvH4wAx0MPo9NyY7trs?e=y7ihHF
+You can get from https://www.aliyundrive.com/s/jMvxnVoijbr or https://1drv.ms/u/s!AkWL65N6AHvH4wAx0MPo9NyY7trs?e=y7ihHF
 
 The retrained model without image augmentation is the output_graph.ph,  the labels are in output_labels.txt and the log of the training set and validation set is in the retrain_logs
 
